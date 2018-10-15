@@ -18,6 +18,16 @@
     width:100%;
     
 }
-button{
-    width: 20px;
+#buttonWrapper>button.light{
+    color: blue;
+    font-weight: bold;
+    height: 25px;
+    background: #999;
+    
+
+}
+#buttonWrapper>button{
+    width: 30px;    
+    margin:0 5px; 
+    
 }
